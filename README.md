@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div align= "center">
+<h1 align="center">Hi there, I am Nelly 👋</h1>
+</div>
 <!--
 **Sodi0/Sodi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
