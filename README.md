@@ -1,5 +1,6 @@
 <div align= "center">
 <h1 align="center">Hi there, I am Nelly 👋</h1>
+<p><em>Estudiante de Analista en Programación | Entusiasta del Desarrollo Web & Backend</em></p>
 </div>
 
 <h2>Bienvenid@ a Mi Repositorio</h2>
@@ -7,6 +8,10 @@
 
 <h3>Sobre Mí</h3>
 <p>Soy una entusiasta del desarrollo web y backend, interesada en construir aplicaciones robustas y eficientes. Estoy aprendiendo nuevas tecnologías y siempre buscando maneras de mejorar mis habilidades.</p>
+
+<h3>📫 Cómo Contactarme</h3>
+<p>Email: <a href="mailto:avilesnelly001@gmail.com">avilesnelly001@gmail.com</a></p>
+<p>LinkedIn: <a href="www.linkedin.com/in/nelly-aviles">linkedin.com/in/nelly-aviles/</a></p>
 <!--
 **Sodi0/Sodi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
