@@ -1,6 +1,12 @@
 <div align= "center">
 <h1 align="center">Hi there, I am Nelly 👋</h1>
 </div>
+
+<h2>Bienvenid@ a Mi Repositorio</h2>
+<p>¡Hola! Soy Nelly, una estudiante de Analista en Programación apasionada por el aprendizaje y desarrollo de software.</p>
+
+<h3>Sobre Mí</h3>
+<p>Soy una entusiasta del desarrollo web y backend, interesada en construir aplicaciones robustas y eficientes. Estoy aprendiendo nuevas tecnologías y siempre buscando maneras de mejorar mis habilidades.</p>
 <!--
 **Sodi0/Sodi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
